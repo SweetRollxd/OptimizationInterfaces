@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ckklP83nvKbxv0cJPDeGeKl49QoFtix2M3P6WtAsfRZkTui6zj9UX/LJ3tsvnET3S0TgWBMOIxHfmMfbxmXynw==",
+  "success": true,
+  "projectFilePath": "/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/OptimizationInterfaces.csproj",
+  "expectedPackageFiles": [
+    "/home/andrew/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/andrew/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/home/andrew/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.25/microsoft.netcore.app.host.linux-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

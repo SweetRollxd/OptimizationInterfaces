@@ -1,0 +1,14 @@
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/bin/Debug/net6.0/OptimizationInterfaces
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/bin/Debug/net6.0/OptimizationInterfaces.deps.json
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/bin/Debug/net6.0/OptimizationInterfaces.runtimeconfig.json
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/bin/Debug/net6.0/OptimizationInterfaces.dll
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/bin/Debug/net6.0/OptimizationInterfaces.pdb
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.AssemblyInfoInputs.cache
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.AssemblyInfo.cs
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.csproj.CoreCompileInputs.cache
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.dll
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/refint/OptimizationInterfaces.dll
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.pdb
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/OptimizationInterfaces.genruntimeconfig.cache
+/home/andrew/Ucheba/FPMI/toop_optimization/OptimizationInterfaces/obj/Debug/net6.0/ref/OptimizationInterfaces.dll
